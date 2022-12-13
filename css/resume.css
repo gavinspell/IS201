@@ -1,0 +1,45 @@
+.title{
+    color:rgb(97, 97, 238);
+    font-family: 'Bebas Neue', cursive;
+    font-size: 28px;
+    text-align:center;
+    
+    
+    
+}
+
+img{
+    height:100px;
+}
+
+body{
+    background-color:lightgray;
+    border-style:solid;
+}
+.sub{
+    text-align:center;
+
+}
+
+.content {
+    position:relative;
+    left:30%;
+    
+}
+
+h4 {
+    text-decoration-line: underline;
+    color:rgb(97, 97, 238)
+}
+
+.school{
+    font-weight:bold;
+}
+
+.tableauPlaceholder{
+    height:200px;
+}
+
+a{
+    color:black;
+}
